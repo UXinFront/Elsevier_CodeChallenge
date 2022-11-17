@@ -1,0 +1,63 @@
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.exe
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.deps.json
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.runtimeconfig.json
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.pdb
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.csproj.AssemblyReference.cache
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge_MarkupCompile.cache
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge_MarkupCompile.lref
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.g.resources
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.AssemblyInfo.cs
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\refint\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.pdb
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.genruntimeconfig.cache
+C:\Users\Niclas Hansen\Desktop\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\ref\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.exe
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.deps.json
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.runtimeconfig.json
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.pdb
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.csproj.AssemblyReference.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge_MarkupCompile.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge_MarkupCompile.lref
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.g.resources
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.AssemblyInfo.cs
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\refint\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.pdb
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.genruntimeconfig.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\ref\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.exe
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.deps.json
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.runtimeconfig.json
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\bin\Debug\net6.0-windows\Elsevier_CodeChallenge.pdb
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.csproj.AssemblyReference.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge_MarkupCompile.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge_MarkupCompile.lref
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.g.resources
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.AssemblyInfo.cs
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\refint\Elsevier_CodeChallenge.dll
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.pdb
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\Elsevier_CodeChallenge.genruntimeconfig.cache
+C:\Users\Niclas Hansen\OneDrive - TECHCOLLEGE\Programmering\Projekter\Code Challenges etc\Elsevier_CodeChallenge - Copy\Elsevier_CodeChallenge\obj\Debug\net6.0-windows\ref\Elsevier_CodeChallenge.dll
